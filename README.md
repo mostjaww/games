@@ -1,5 +1,3 @@
----
-
 # 🎮 Koleksi Game Sederhana
 
 Selamat datang di repositori **Games**! Proyek ini berisi berbagai macam permainan interaktif yang dibangun menggunakan berbagai teknologi web dan script. Repositori ini cocok untuk referensi belajar logika pemrograman atau sekadar hiburan ringan.
