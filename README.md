@@ -4,15 +4,6 @@
 
 Selamat datang di repositori **Games**! Proyek ini berisi berbagai macam permainan interaktif yang dibangun menggunakan berbagai teknologi web dan script. Repositori ini cocok untuk referensi belajar logika pemrograman atau sekadar hiburan ringan.
 
-## 🕹️ Daftar Game
-
-| Nama Game | Teknologi | Kesulitan | Deskripsi Singkat |
-| --- | --- | --- | --- |
-| **Tic-Tac-Toe** | HTML, CSS, JS | Mudah | Game klasik X dan O melawan pemain lain atau AI. |
-| **Snake Engine** | JavaScript | Sedang | Kendalikan ular untuk memakan poin tanpa menabrak dinding. |
-| **Number Guesser** | PHP / JS | Mudah | Tebak angka acak yang dihasilkan oleh sistem. |
-| **Quiz App** | JSON, JS | Sedang | Kumpulan pertanyaan dengan sistem skor real-time. |
-
 ## 🚀 Fitur Utama
 
 * **Responsif:** Dapat dimainkan di perangkat mobile maupun desktop.
