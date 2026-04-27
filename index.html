@@ -54,9 +54,6 @@
 </head>
 <body>
     <h1>Portal Games Network</h1>
-    <div class="link-card">
-    <p id="visitor-count">Loading...</p>
-</div>
     <div class="link-container">
         <div class="link-card">
             <a href="./stress_ball/" target="_blank">Stress Ball</a>
@@ -108,12 +105,4 @@
         </div>
     </div>
 </body>
-<script>
-fetch("https://api.countapi.xyz/hit/portal-games-network/visits")
-  .then(res => res.json())
-  .then(res => {
-    document.getElementById("visitor-count").innerText =
-      "Total pengunjung: " + res.value;
-  });
-</script>
 </html>
